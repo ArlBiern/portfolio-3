@@ -1,4 +1,4 @@
-# :game_die: Landing page sample :game_die:
+# Landing page sample
 
 **Check demo** at  [GitHub Pages](https://kombajn27.github.io/portfolio-3/).
 
