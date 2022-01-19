@@ -10,4 +10,4 @@ Simple landing page made to test and practice RWD usage.
 * RWD.
 
 ## :bust_in_silhouette: Author
-* **Kombajn27** - check at [Github](https://github.com/Kombajn27)
+* **ArlBiern** - check at [Github](https://github.com/ArlBiern)
