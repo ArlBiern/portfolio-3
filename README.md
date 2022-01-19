@@ -1,6 +1,6 @@
 # Landing page sample
 
-**Check demo** at  [GitHub Pages](https://kombajn27.github.io/portfolio-3/).
+**Check demo** at  [GitHub Pages](https://ArlBiern.github.io/portfolio-3/).
 
 Simple landing page made to test and practice RWD usage.     
 
